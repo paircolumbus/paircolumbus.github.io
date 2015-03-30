@@ -1,3 +1,9 @@
+---
+layout: page
+title: Beginner Resources
+permalink: /beginner_resources/
+---
+
 ##Learn! :)
 If you're completely new to programming you may want to consider these resources. I recommend that beginner's complete all of the following before starting on our challenges. 
 

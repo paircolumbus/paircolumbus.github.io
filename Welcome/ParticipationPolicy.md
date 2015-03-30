@@ -1,3 +1,9 @@
+---
+layout: page
+title: Participation Policy
+permalink: /participation_policy/
+---
+
 #Participation Policy
 
 There are a number of people on the waiting list and I feel its important that we have a rather strict participation policy in order to be fair to them. In order to remain a member of the tutoring group, there will be the following expectations: 

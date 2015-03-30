@@ -1,3 +1,9 @@
+---
+layout: page
+title: Submitting Challenges
+permalink: /submitting_challenges/
+---
+
 #How to submit challenges via GitHub
 
 If you don't have Git or Ruby installed on your computer, please [start here](https://github.com/paircolumbus/Welcome/blob/master/GettingStarted.md). [Click here](https://github.com/paircolumbus/Welcome/blob/master/ChallengeGuide.md) to see our Challenge Guide.

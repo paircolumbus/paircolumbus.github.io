@@ -1,3 +1,9 @@
+---
+layout: page
+title: Challenge Guide
+permalink: /challenge_guide/
+---
+
 #Challenge Guide
 
 Challenges are marked by difficulty level. 
