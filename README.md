@@ -3,7 +3,7 @@ Join Us / View Schedule
 If you'd like to join our group, sign up below. We are now open to the general public, please sign up for updates about our 2015 mentoring/pairing schedule.  
 
 [Sign Up Here: Email List](https://docs.google.com/a/goodproduce.net/forms/d/11WzmAGErqLTQ6NAwtBOTVl_BOlkXdj3L-8tbzBNGb9s/viewform)  
-[View Meetup Schedule](https://github.com/pair-columbus/Welcome/blob/master/Schedule2015.md)  
+[View Meetup Schedule](pages/schedule.md)  
 [Attend Here](https://www.eventbrite.com/e/pair-programming-mentoring-covermymeds-tickets-15224426670)
 
 
@@ -27,8 +27,8 @@ Start Here
 ===
 Here's some great links to helpful learning material including our challenge guide, exercises, tutorials, and important documentation.  
 
-- [New Members: Start Here](https://github.com/pair-columbus/Welcome/blob/master/GettingStarted.md)
-- [How to submit completed challenges with GitHub](https://github.com/pair-columbus/Welcome/blob/master/SubmittingChallenges.md)
+- [New Members: Start Here](pages/getting_started.md)
+- [How to submit completed challenges with GitHub](pages/challenges.md#how-to-submit-challenges-via-github)
 
 __GitHub Tutorials__
 - http://try.github.com
