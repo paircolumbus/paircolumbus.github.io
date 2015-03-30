@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{{ site.description }}
+
 ## Start Here
 Here's some great links to helpful learning material including our challenge guide, exercises, tutorials, and important documentation.
 
