@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-##Learn! :)
+##Learn! :smile:
 If you're completely new to programming you may want to consider these resources. I recommend that beginner's complete all of the following before starting on our challenges.
 
 [Typing.io](https://typing.io/) - I'd highly recommend becoming a touch typer if you're not already. Try out the Ruby track and aim for at least 40wpm.

@@ -44,4 +44,4 @@ __Submitting your challenge__
 - Fork the [Challenge Skeleton](https://github.com/paircolumbus/ChallengeSkeleton) on GitHub & follow it's format
 - Push your changes to a topic branch in your fork of the repository
 - Submit a pull request to the repository in the Engineers organization
-- We'll review it and close the pull request! Thanks :)
+- We'll review it and close the pull request! Thanks :smile:

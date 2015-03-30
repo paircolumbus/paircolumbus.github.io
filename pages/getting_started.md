@@ -8,7 +8,7 @@ permalink: /getting_started/
 
 Before we begin coding, let's setup your local development environment. Mac users should note that their operating systems come with a system Ruby & Python. Consider the setup below to be optional.
 
-##Setup :(
+##Setup :frowning:
 - Mac Users  
   - [Install Git](http://git-scm.com/download/)  
   - [Install RVM](http://rvm.io/)  
@@ -20,7 +20,7 @@ Before we begin coding, let's setup your local development environment. Mac user
 
 __Note:__ Installing software is dreaded even by seasoned developers, if you have any problems please ask for help.  
 
-##Advanced Setup :( :(
+##Advanced Setup :frowning: :frowning:
 Software engineers routinely have to work with different versions of language in development and testing environments depending on the application.
 
 __Recommendations:__

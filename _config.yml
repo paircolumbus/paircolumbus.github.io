@@ -9,3 +9,5 @@ github_username:  paircolumbus
 
 # Build settings
 markdown: kramdown
+gems:
+- jemoji
