@@ -4,9 +4,11 @@ title: Schedule
 permalink: /schedule/
 ---
 
+## 2015
+
 Here's our schedule for the rest of 2015. You can register to attend the workshop [here](https://www.eventbrite.com/e/pair-programming-mentoring-covermymeds-tickets-15224426670).
 
-## Meetup Times
+### Meetup Times
 For updates and other information, sign up for [our email list](https://docs.google.com/a/goodproduce.net/forms/d/11WzmAGErqLTQ6NAwtBOTVl_BOlkXdj3L-8tbzBNGb9s/viewform).
 
 __NOTE:__ * = These sessions include a beginner's install & tooling workshop. Bring your laptop and lots of questions. Our mentors will aid with setting up your local development environment.

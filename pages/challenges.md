@@ -4,8 +4,6 @@ title: Challenges
 permalink: /challenges/
 ---
 
-#Challenge Guide
-
 Challenges are marked by difficulty level.
 
 __Beginner__ - Rusty or new to web development, limited knowledge of programming languages & related tools

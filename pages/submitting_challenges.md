@@ -4,7 +4,7 @@ title: Submitting Challenges
 permalink: /submitting_challenges/
 ---
 
-#How to submit challenges via GitHub
+<!-- #How to submit challenges via GitHub -->
 
 If you don't have Git or Ruby installed on your computer, please [start here](https://github.com/paircolumbus/Welcome/blob/master/GettingStarted.md). [Click here](https://github.com/paircolumbus/Welcome/blob/master/ChallengeGuide.md) to see our Challenge Guide.
 
@@ -21,6 +21,6 @@ If you don't have Git or Ruby installed on your computer, please [start here](ht
 
 __NOTE:__ The image above is also accessible [here on Imgur](http://i.imgur.com/6dZYqjx).
 
-#Documentation
+##Documentation
 - http://git-scm.com/documentation
 - https://www.atlassian.com/git/tutorial

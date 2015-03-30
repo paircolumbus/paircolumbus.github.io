@@ -4,8 +4,6 @@ title: Getting Started
 permalink: /getting_started/
 ---
 
-#Tutoring Resources
-
 Before we begin coding, let's setup your local development environment. Mac users should note that their operating systems come with a system Ruby & Python. Consider the setup below to be optional.
 
 ##Setup :frowning:
