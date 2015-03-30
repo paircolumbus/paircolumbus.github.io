@@ -10,4 +10,5 @@ github_username:  paircolumbus
 # Build settings
 markdown: kramdown
 gems:
+- jekyll-mentions
 - jemoji
