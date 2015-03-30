@@ -16,7 +16,7 @@ __Intermediate__ - Very familiar with Ruby, JS, MacOS/Linux, Shell, Git & your t
 __Note:__ Most of these drills are not domain specific and can be completed with the Ruby, Python or NodeJS libraries.
 
 __Beginner__  
-Your goal is to complete each drill successfully and comfortably using common Ruby methods & syntax. If you are new to programming, please start with our [beginner resources](https://github.com/paircolumbus/Welcome/blob/master/BeginnerResources.md) before continuing.  
+Your goal is to complete each drill successfully and comfortably using common Ruby methods & syntax. If you are new to programming, please start with our [beginner resources](/resources/) before continuing.  
  - [Git It](https://github.com/paircolumbus/Git-It)
  - [Ruby Refresher](https://github.com/paircolumbus/RubyRefresher)  
  - [Let's Drill](https://github.com/paircolumbus/LetsDrill)
@@ -56,7 +56,7 @@ These are extra drills used to improve your over full-stack development skills.
 
 ##How to submit challenges via GitHub
 
-If you don't have Git or Ruby installed on your computer, please [start here](https://github.com/paircolumbus/Welcome/blob/master/GettingStarted.md). [Click here](https://github.com/paircolumbus/Welcome/blob/master/ChallengeGuide.md) to see our Challenge Guide.
+If you don't have Git or Ruby installed on your computer, please [start here](/getting_started/).
 
 ###Submitting Challenges for Review
 ![submitting challenges](http://i.imgur.com/6dZYqjx.gif)

@@ -7,11 +7,10 @@ layout: default
 ## Start Here
 Here's some great links to helpful learning material including our challenge guide, exercises, tutorials, and important documentation.
 
-- [New Members: Start Here](https://github.com/paircolumbus/Welcome/blob/master/GettingStarted.md)
+- [New Members: Start Here](/getting_started/)
 - [Track your Challenge Progress](http://challengeprogress.herokuapp.com/)
-- [Challenge Guide](https://github.com/paircolumbus/Welcome/blob/master/ChallengeGuide.md)
-- [How to submit completed challenges](https://github.com/paircolumbus/Welcome/blob/master/SubmittingChallenges.md)
-- Help? Check out the _Welcome_ repository [here](https://github.com/paircolumbus/Welcome).
+- [Challenge Guide](/challenges/)
+- [How to submit completed challenges](/challenges/#how-to-submit-challenges-via-github)
 
 ### 2015 Schedule
 [View schedule & obtain an event ticket](https://www.eventbrite.com/e/pair-programming-mentoring-covermymeds-tickets-15224426670)

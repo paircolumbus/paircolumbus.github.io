@@ -27,4 +27,4 @@ __Recommendations:__
 - [nvm](https://github.com/creationix/nvm) for Javascript/NodeJS
 
 ##Next Steps
-Once your environment is setup, please [move on to the Challenge Guide](https://github.com/paircolumbus/Welcome/blob/master/ChallengeGuide.md)!
+Once your environment is setup, please [move on to the Challenge Guide](/challenges/)!
