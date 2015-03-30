@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Schedule 2015
-permalink: /schedule_2015/
+title: Schedule
+permalink: /schedule/
 ---
 
 Here's our schedule for the rest of 2015. You can register to attend the workshop [here](https://www.eventbrite.com/e/pair-programming-mentoring-covermymeds-tickets-15224426670).

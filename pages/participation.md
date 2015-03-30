@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Participation Policy
-permalink: /participation_policy/
+title: Participation
+permalink: /participation/
 ---
 
 #Participation Policy

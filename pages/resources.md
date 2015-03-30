@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Beginner Resources
-permalink: /beginner_resources/
+title: Resources
+permalink: /resources/
 ---
 
 ##Learn! :)

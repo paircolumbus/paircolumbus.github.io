@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Challenge Guide
-permalink: /challenge_guide/
+title: Challenges
+permalink: /challenges/
 ---
 
 #Challenge Guide
