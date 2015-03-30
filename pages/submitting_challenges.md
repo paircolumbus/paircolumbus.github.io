@@ -24,5 +24,3 @@ __NOTE:__ The image above is also accessible [here on Imgur](http://i.imgur.com/
 #Documentation
 - http://git-scm.com/documentation
 - https://www.atlassian.com/git/tutorial
-
-

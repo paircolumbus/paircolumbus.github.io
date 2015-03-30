@@ -17,11 +17,11 @@ Before we begin coding, let's setup your local development environment. Mac user
   - [Rails Installer](http://railsinstaller.org/)  
   - [Cloud 9](https://c9.io/)  
   - [Install Atom](http://chocolatey.org/packages/atom)  
- 
+
 __Note:__ Installing software is dreaded even by seasoned developers, if you have any problems please ask for help.  
 
 ##Advanced Setup :( :(
-Software engineers routinely have to work with different versions of language in development and testing environments depending on the application. 
+Software engineers routinely have to work with different versions of language in development and testing environments depending on the application.
 
 __Recommendations:__
 - [chruby](https://github.com/postmodern/chruby) or [rbenv](https://github.com/sstephenson/rbenv) for Ruby management. RVM is no longer preferred.  

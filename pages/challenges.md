@@ -6,7 +6,7 @@ permalink: /challenges/
 
 #Challenge Guide
 
-Challenges are marked by difficulty level. 
+Challenges are marked by difficulty level.
 
 __Beginner__ - Rusty or new to web development, limited knowledge of programming languages & related tools
 
@@ -27,7 +27,7 @@ Your goal is to complete each drill successfully and comfortably using common Ru
  - [Find The Anagrams](https://github.com/paircolumbus/FindTheAnagrams)
  - [Fix the Tree TDD](https://github.com/paircolumbus/FixTheTreeTDD)
  - [MVCgame](https://github.com/paircolumbus/MVCgame)
- 
+
 __Automated Testing__  
 Your goal is to complete each beginner drill successfully and have a good understanding of how to use common Ruby testing tools like Capybara, RSpec, & Cucumber.  
  - [Do You Know The DOM](https://github.com/paircolumbus/DoYouKnowTheDOM)
@@ -45,16 +45,16 @@ Your goal is to complete each beginner & automated testing drill and achieve an 
  - [Rap Name Generator](https://github.com/paircolumbus/RapNameGenerator)  
  - [Bitly Clone](https://github.com/paircolumbus/BitlyClone)
  - [Not Allowed: User Auth](https://github.com/paircolumbus/NotAllowed)  
- 
+
 __Javascript__  
 These drills will help you develop a basic proficiency in web development, functional & asynchronous programming with JS/Nodejs.
  - [Javascripting 101](https://github.com/paircolumbus/javascripting101)
  - [Form Validator](https://github.com/paircolumbus/FormValidator)
- 
+
 __Extra Credit__  
 These are extra drills used to improve your over full-stack development skills.
- - [Bootstrap Grid](https://github.com/paircolumbus/BootstrapGridSystem) 
- - [Socket & Thread](https://github.com/paircolumbus/SocketAndThread) 
+ - [Bootstrap Grid](https://github.com/paircolumbus/BootstrapGridSystem)
+ - [Socket & Thread](https://github.com/paircolumbus/SocketAndThread)
 
 ##Contributing
 We're looking for more challenges! To submit your own for the advancement of others, please check out our section on [contributing](/CONTRIBUTING.md).

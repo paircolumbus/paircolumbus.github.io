@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 
 ##Learn! :)
-If you're completely new to programming you may want to consider these resources. I recommend that beginner's complete all of the following before starting on our challenges. 
+If you're completely new to programming you may want to consider these resources. I recommend that beginner's complete all of the following before starting on our challenges.
 
 [Typing.io](https://typing.io/) - I'd highly recommend becoming a touch typer if you're not already. Try out the Ruby track and aim for at least 40wpm.
 
@@ -22,7 +22,7 @@ If you're completely new to programming you may want to consider these resources
 [The Odin Project](http://theodinproject.com/) - A road map that guides you through the best free resources for learning web development. It also provides small projects to add to your portfolio and helps you retain the material. Not necessary for Pair Columbus challenges, but it can keep you on track in further studies.
 
 ##Recommended Reading:
-__Read the docs__ -> [Ruby](http://ruby-doc.org/) / [Rails](http://guides.rubyonrails.org/) / [Python](https://docs.python.org/2/) / [NodeJS](http://nodejs.org/api/) - It may seem a bit taxing at times, but it's always good to read through key parts of the documentation a few times before tackling an application. 
+__Read the docs__ -> [Ruby](http://ruby-doc.org/) / [Rails](http://guides.rubyonrails.org/) / [Python](https://docs.python.org/2/) / [NodeJS](http://nodejs.org/api/) - It may seem a bit taxing at times, but it's always good to read through key parts of the documentation a few times before tackling an application.
 
 > Ruby: Read up on the [String](http://ruby-doc.org/core-2.1.2/String.html), [Array](http://ruby-doc.org/core-2.1.2/Array.html), [Hash](http://ruby-doc.org/core-2.1.2/Hash.html), [Enumerable](http://ruby-doc.org/core-2.1.2/Enumerable.html) & [Integer](http://ruby-doc.org/core-2.1.2/Integer.html) methods.
 
