@@ -18,7 +18,7 @@ Here's some great links to helpful learning material including our challenge gui
 
 ### Special Thanks!
 Without the support of these amazing people, Pair Columbus would not be possible:
-[Matt DeGoey](https://github.com/degoeym), [Jennifer Cable](https://twitter.com/jkcable), Lauren Campbell, Vasanth Pappu, Brian Lees, [Nick McCurdy](https://github.com/nicolasmccurdy), [Tirthankar Bhattacharjee](https://github.com/theidlemonk), and all of our various attendees.
+[Matt DeGoey](https://github.com/degoeym), [Jennifer Cable](https://twitter.com/jkcable), Lauren Campbell, Vasanth Pappu, Brian Lees, [Nick McCurdy](https://github.com/nicolasmccurdy), [Tirthankar Bhattacharjee](https://github.com/theidlemonk), [Joshua](https://github.com/VariousWeapon), [Jay Bobo](https://github.com/jaybobo), and all of our various attendees.
 
 ### Location
 CoverMyMeds  
