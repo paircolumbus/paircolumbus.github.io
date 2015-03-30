@@ -33,8 +33,8 @@ Email: <info@paircolumbus.org>
 [Columbus Ruby Brigade](http://columbusrb.com/)  
 [CBus Javascript Usergroup](https://cbusjs.github.io/)  
 [ScriptScribe (databases/Devops)](https://www.scriptscribe.org/)  
-[Girl Develop It - accessible training for women](http://www.girldevelopit.com/chapters/columbus)  
+[Girl Develop It - accessible training for women](https://www.girldevelopit.com/chapters/columbus)  
 [Per Scholas - free IT training for the unemployed](http://perscholas.org/columbus/)
 
 ### Sponsored By
-[CoverMyMeds](http://www.covermymeds.com), [GoodProduce](http://www.goodproduce.net) & [Custom Shirts](http://www.customshirts.com/)
+[CoverMyMeds](https://www.covermymeds.com/main/), [GoodProduce](http://goodproduce.net) & [Custom Shirts](http://www.customshirts.com/)

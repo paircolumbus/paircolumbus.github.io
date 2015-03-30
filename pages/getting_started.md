@@ -12,9 +12,9 @@ Before we begin coding, let's setup your local development environment. Mac user
   - [Install RVM](http://rvm.io/)  
   - [Install Atom Editor](https://atom.io/)
 - Windows Users  
-  - [Rails Installer](http://railsinstaller.org/)  
+  - [Rails Installer](http://railsinstaller.org/en)  
   - [Cloud 9](https://c9.io/)  
-  - [Install Atom](http://chocolatey.org/packages/atom)  
+  - [Install Atom](https://chocolatey.org/packages/atom)  
 
 __Note:__ Installing software is dreaded even by seasoned developers, if you have any problems please ask for help.  
 
@@ -27,4 +27,4 @@ __Recommendations:__
 - [nvm](https://github.com/creationix/nvm) for Javascript/NodeJS
 
 ##Next Steps
-Once your environment is setup, please [move on to the Challenge Guide](https://github.com/columbustutoringgroup/Welcome/blob/master/ChallengeGuide.md)!
+Once your environment is setup, please [move on to the Challenge Guide](https://github.com/paircolumbus/Welcome/blob/master/ChallengeGuide.md)!

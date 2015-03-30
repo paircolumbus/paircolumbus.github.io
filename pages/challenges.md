@@ -69,7 +69,7 @@ If you don't have Git or Ruby installed on your computer, please [start here](ht
 - _Push_ your changes back to your Github account
 - Issue a _pull request_ for your branch from Github
 
-__NOTE:__ The image above is also accessible [here on Imgur](http://i.imgur.com/6dZYqjx).
+__NOTE:__ The image above is also accessible [here on Imgur](http://imgur.com/6dZYqjx).
 
 ###Documentation
 - http://git-scm.com/documentation
