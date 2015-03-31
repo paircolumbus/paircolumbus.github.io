@@ -12,3 +12,8 @@ markdown: kramdown
 gems:
 - jekyll-mentions
 - jemoji
+exclude:
+- CNAME
+- CONTRIBUTING.md
+- Gemfile*
+- README.md
