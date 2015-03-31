@@ -6,17 +6,18 @@ permalink: /challenges/
 
 Challenges are marked by difficulty level.
 
-__Beginner__ - Rusty or new to web development, limited knowledge of programming languages & related tools
+__Beginner:__ Rusty or new to web development, limited knowledge of programming languages & related tools
 
-__Automated Testing__ - A special track for those with an interest in Ruby testing & automation techniques
+__Automated Testing:__ A special track for those with an interest in Ruby testing & automation techniques
 
-__Intermediate__ - Very familiar with Ruby, JS, MacOS/Linux, Shell, Git & your text editor of choice.
+__Intermediate:__ Very familiar with Ruby, JS, MacOS/Linux, Shell, Git & your text editor of choice.
 
 ##Session Drills
 __Note:__ Most of these drills are not domain specific and can be completed with the Ruby, Python or NodeJS libraries.
 
-__Beginner__  
-Your goal is to complete each drill successfully and comfortably using common Ruby methods & syntax. If you are new to programming, please start with our [beginner resources](/resources/) before continuing.  
+###Beginner
+Your goal is to complete each drill successfully and comfortably using common Ruby methods & syntax. If you are new to programming, please start with our [beginner resources](/resources/) before continuing.
+
  - [Git It](https://github.com/paircolumbus/Git-It)
  - [Ruby Refresher](https://github.com/paircolumbus/RubyRefresher)  
  - [Let's Drill](https://github.com/paircolumbus/LetsDrill)
@@ -26,8 +27,9 @@ Your goal is to complete each drill successfully and comfortably using common Ru
  - [Fix the Tree TDD](https://github.com/paircolumbus/FixTheTreeTDD)
  - [MVCgame](https://github.com/paircolumbus/MVCgame)
 
-__Automated Testing__  
-Your goal is to complete each beginner drill successfully and have a good understanding of how to use common Ruby testing tools like Capybara, RSpec, & Cucumber.  
+###Automated Testing
+Your goal is to complete each beginner drill successfully and have a good understanding of how to use common Ruby testing tools like Capybara, RSpec, & Cucumber.
+
  - [Do You Know The DOM](https://github.com/paircolumbus/DoYouKnowTheDOM)
  - [Do You Know The DOM 2](https://github.com/paircolumbus/DoYouKnowTheDom2)  
  - [Parser Challenge: Version 1](https://github.com/paircolumbus/ParserChallenge1)
@@ -35,8 +37,9 @@ Your goal is to complete each beginner drill successfully and have a good unders
  - [Cucumber Basics](https://github.com/paircolumbus/CucumberBasics)
  - [Capybara101](https://github.com/paircolumbus/Capybara101)
 
-__Intermediate__  
+###Intermediate
 Your goal is to complete each beginner & automated testing drill and achieve an understanding of basic web development (Rails).
+
  - [Counting Words](https://github.com/paircolumbus/CountingWords)
  - [Healthy Relationships](https://github.com/paircolumbus/HealthyRelationships)
  - [Form Validator](https://github.com/paircolumbus/FormValidator)
@@ -44,13 +47,15 @@ Your goal is to complete each beginner & automated testing drill and achieve an 
  - [Bitly Clone](https://github.com/paircolumbus/BitlyClone)
  - [Not Allowed: User Auth](https://github.com/paircolumbus/NotAllowed)  
 
-__Javascript__  
+###Javascript
 These drills will help you develop a basic proficiency in web development, functional & asynchronous programming with JS/Nodejs.
+
  - [Javascripting 101](https://github.com/paircolumbus/javascripting101)
  - [Form Validator](https://github.com/paircolumbus/FormValidator)
 
-__Extra Credit__  
+###Extra Credit
 These are extra drills used to improve your over full-stack development skills.
+
  - [Bootstrap Grid](https://github.com/paircolumbus/BootstrapGridSystem)
  - [Socket & Thread](https://github.com/paircolumbus/SocketAndThread)
 
@@ -59,7 +64,7 @@ These are extra drills used to improve your over full-stack development skills.
 If you don't have Git or Ruby installed on your computer, please [start here](/getting_started/).
 
 ###Submitting Challenges for Review
-![submitting challenges](http://i.imgur.com/6dZYqjx.gif)
+[![submitting challenges](http://i.imgur.com/6dZYqjx.gif)](http://imgur.com/6dZYqjx)
 
 - Login to your Github.com account
 - Fork the challenge that you want to work on from Pair Columbus
@@ -69,11 +74,9 @@ If you don't have Git or Ruby installed on your computer, please [start here](/g
 - _Push_ your changes back to your Github account
 - Issue a _pull request_ for your branch from Github
 
-__NOTE:__ The image above is also accessible [here on Imgur](http://imgur.com/6dZYqjx).
-
 ###Documentation
-- http://git-scm.com/documentation
-- https://www.atlassian.com/git/tutorial
+- <http://git-scm.com/documentation>
+- <https://www.atlassian.com/git/tutorial>
 
 ##Contributing
 We're looking for more challenges! To submit your own for the advancement of others, please check out our section on [contributing](https://github.com/paircolumbus/paircolumbus.github.io/blob/master/CONTRIBUTING.md).

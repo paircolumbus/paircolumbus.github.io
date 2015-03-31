@@ -21,7 +21,17 @@ Here's some great links to helpful learning material including our challenge gui
 
 ### Special Thanks!
 Without the support of these amazing people, Pair Columbus would not be possible:
-@degoeym, @jkcable, Lauren Campbell, Vasanth Pappu, Brian Lees, @nicolasmccurdy, @theidlemonk, @VariousWeapon, @jaybobo, and all of our various attendees.
+
+- @degoeym
+- @jkcable
+- Lauren Campbell
+- Vasanth Pappu
+- Brian Lees
+- @nicolasmccurdy
+- @theidlemonk
+- @VariousWeapon
+- @jaybobo
+- all of our various attendees
 
 ### Location
 We're located on the 11th floor. Park in the garage and take the elevator to the 3rd floor. Sign in at the security desk and tell them you need to head to the 11th floor.
@@ -38,12 +48,12 @@ We're located on the 11th floor. Park in the garage and take the elevator to the
 Email: <info@paircolumbus.org>
 
 ### Resources
-@paircolumbus  
-[Columbus Ruby Brigade](http://columbusrb.com/)  
-[CBus Javascript Usergroup](https://cbusjs.github.io/)  
-[ScriptScribe (databases/Devops)](https://www.scriptscribe.org/)  
-[Girl Develop It - accessible training for women](https://www.girldevelopit.com/chapters/columbus)  
-[Per Scholas - free IT training for the unemployed](http://perscholas.org/columbus/)
+- @paircolumbus
+- [Columbus Ruby Brigade](http://columbusrb.com/)
+- [CBus Javascript Usergroup](https://cbusjs.github.io/)
+- [ScriptScribe (databases/Devops)](https://www.scriptscribe.org/)
+- [Girl Develop It - accessible training for - women](https://www.girldevelopit.com/chapters/columbus)
+- [Per Scholas - free IT training for the unemployed](http://perscholas.org/columbus/)
 
 ### Sponsored By
 [CoverMyMeds](https://www.covermymeds.com/main/), [GoodProduce](http://goodproduce.net) & [Custom Shirts](http://www.customshirts.com/)
