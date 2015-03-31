@@ -76,4 +76,4 @@ __NOTE:__ The image above is also accessible [here on Imgur](http://imgur.com/6d
 - https://www.atlassian.com/git/tutorial
 
 ##Contributing
-We're looking for more challenges! To submit your own for the advancement of others, please check out our section on [contributing](/CONTRIBUTING.md).
+We're looking for more challenges! To submit your own for the advancement of others, please check out our section on [contributing](https://github.com/paircolumbus/paircolumbus.github.io/blob/master/CONTRIBUTING.md).
