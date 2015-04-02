@@ -256,6 +256,20 @@ form {
   padding: 20px;
 }
 
+.map-container {
+    position: relative;
+    padding-bottom: 65.25%;
+    padding-top: 30px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.map-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
