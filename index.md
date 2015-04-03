@@ -47,7 +47,7 @@ We're located on the 11th floor. Park in the garage and take the elevator to the
 ### Contact
 Email: <info@paircolumbus.org>
 
-### Resources
+### Friends & Links
 - @paircolumbus
 - [Columbus Ruby Brigade](http://columbusrb.com/)
 - [CBus Javascript Usergroup](https://cbusjs.github.io/)
