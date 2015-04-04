@@ -26,7 +26,7 @@ Software engineers routinely have to work with different versions of language in
 ###Recommendations
 - [chruby](https://github.com/postmodern/chruby) or [rbenv](https://github.com/sstephenson/rbenv) for Ruby management. RVM is no longer preferred.  
 - [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html) and [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/) are preferred for Python  
-- [nvm](https://github.com/creationix/nvm) for Javascript/NodeJS
+- [nvm](https://github.com/creationix/nvm) for JavaScript/NodeJS
 
 ##Next Steps
 Once your environment is setup, please [move on to the Challenges](/challenges/)!
