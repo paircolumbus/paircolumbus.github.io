@@ -76,7 +76,7 @@ If you don't have Git or Ruby installed on your computer, please [start here](/g
 
 ###Documentation
 - <http://git-scm.com/documentation>
-- <https://www.atlassian.com/git/tutorial>
+- <https://www.atlassian.com/git/tutorials/>
 
 ##Contributing
 We're looking for more challenges! To submit your own for the advancement of others, please check out our section on [contributing](https://github.com/paircolumbus/paircolumbus.github.io/blob/master/CONTRIBUTING.md).
