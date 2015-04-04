@@ -16,7 +16,7 @@ __Intermediate:__ Very familiar with Ruby, JS, MacOS/Linux, Shell, Git & your te
 __Note:__ Most of these drills are not domain specific and can be completed with the Ruby, Python or NodeJS libraries.
 
 ###Beginner
-Your goal is to complete each drill successfully and comfortably using common Ruby methods & syntax. If you are new to programming, please start with our [beginner resources](/resources/) before continuing.
+Your goal is to complete each drill successfully and comfortably using common Ruby methods & syntax. If you are new to programming, please start with our [resources](/resources/) before continuing.
 
  - [Git It](https://github.com/paircolumbus/Git-It)
  - [Ruby Refresher](https://github.com/paircolumbus/RubyRefresher)  

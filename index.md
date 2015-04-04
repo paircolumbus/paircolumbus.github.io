@@ -9,11 +9,11 @@ Please bring your own laptop to work on. Just getting started with Ruby, Rails, 
 
 Breakfast snacks like bagels and fruit are provided.
 
-Here's some great links to helpful learning material including our challenge guide, exercises, tutorials, and important documentation.
+Here's some great links to helpful learning material including our challenges, exercises, tutorials, and important documentation.
 
 - [New Members: Start Here](/getting_started/)
 - [Track your Challenge Progress](http://challengeprogress.herokuapp.com/)
-- [Challenge Guide](/challenges/)
+- [Challenges](/challenges/)
 - [How to submit completed challenges](/challenges/#how-to-submit-challenges-via-github)
 
 ### 2015 Schedule

@@ -29,4 +29,4 @@ Software engineers routinely have to work with different versions of language in
 - [nvm](https://github.com/creationix/nvm) for Javascript/NodeJS
 
 ##Next Steps
-Once your environment is setup, please [move on to the Challenge Guide](/challenges/)!
+Once your environment is setup, please [move on to the Challenges](/challenges/)!

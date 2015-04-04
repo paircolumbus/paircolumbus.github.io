@@ -10,7 +10,7 @@ If you'd like to join our group, sign up below. We are now open to the general p
 Welcome
 ===
 
-As a member of this group, you will learn how to create websites, scripts & applications using our challenge guide and other resources. We welcome all people of various skill levels. Our members include beginners, test engineers, programmers and accomplished web developers.
+As a member of this group, you will learn how to create websites, scripts & applications using our challenges and other resources. We welcome all people of various skill levels. Our members include beginners, test engineers, programmers and accomplished web developers.
 
 __We provide...__
   - Bimonthly mentoring meetups
@@ -25,7 +25,7 @@ See you soon,
 
 Start Here
 ===
-Here's some great links to helpful learning material including our challenge guide, exercises, tutorials, and important documentation.  
+Here's some great links to helpful learning material including our challenges, exercises, tutorials, and important documentation.  
 
 - [New Members: Start Here](pages/getting_started.md)
 - [How to submit completed challenges with GitHub](pages/challenges.md#how-to-submit-challenges-via-github)
