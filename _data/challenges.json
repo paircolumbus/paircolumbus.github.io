@@ -2,6 +2,7 @@
   {
     "category": "Beginner",
     "challenges": [
+      "Git-It",
       "RubyRefresher",
       "LetsDrill",
       "MoreEnumerables",
@@ -34,7 +35,15 @@
     ]
   },
   {
-    "category": "Advanced",
+    "category": "JavaScript",
+    "challenges": [
+      "javascripting101",
+      "FormValidator",
+      "learnyounode"
+    ]
+  },
+  {
+    "category": "Extra Credit",
     "challenges": [
       "BootstrapGridSystem",
       "SocketAndThread"
