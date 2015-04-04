@@ -1,0 +1,43 @@
+[
+  {
+    "category": "Beginner",
+    "challenges": [
+      "RubyRefresher",
+      "LetsDrill",
+      "MoreEnumerables",
+      "MoreDrillsWithRSpec",
+      "FindTheAnagrams",
+      "FixTheTreeTDD",
+      "MVCgame"
+    ]
+  },
+  {
+    "category": "Automated Testing",
+    "challenges": [
+      "DoYouKnowTheDOM",
+      "DoYouKnowTheDom2",
+      "ParserChallenge1",
+      "FixTheTreeTDD",
+      "CucumberBasics",
+      "Capybara101"
+    ]
+  },
+  {
+    "category": "Intermediate",
+    "challenges": [
+      "CountingWords",
+      "HealthyRelationships",
+      "FormValidator",
+      "RapNameGenerator",
+      "BitlyClone",
+      "NotAllowed"
+    ]
+  },
+  {
+    "category": "Advanced",
+    "challenges": [
+      "BootstrapGridSystem",
+      "SocketAndThread"
+    ]
+  }
+]
