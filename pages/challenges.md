@@ -47,10 +47,10 @@ Your goal is to complete each beginner & automated testing drill and achieve an 
  - [Bitly Clone](https://github.com/paircolumbus/BitlyClone)
  - [Not Allowed: User Auth](https://github.com/paircolumbus/NotAllowed)  
 
-###Javascript
+###JavaScript
 These drills will help you develop a basic proficiency in web development, functional & asynchronous programming with JS/Nodejs.
 
- - [javascripting 101](https://github.com/paircolumbus/javascripting101)
+ - [JavaScripting 101](https://github.com/paircolumbus/javascripting101)
  - [Form Validator](https://github.com/paircolumbus/FormValidator)
  - [learnyounode](https://github.com/paircolumbus/learnyounode)
 

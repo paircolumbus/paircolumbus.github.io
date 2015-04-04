@@ -50,7 +50,7 @@ Email: <info@paircolumbus.org>
 ### Friends & Links
 - @paircolumbus
 - [Columbus Ruby Brigade](http://columbusrb.com/)
-- [CBus Javascript Usergroup](https://cbusjs.github.io/)
+- [CBus JavaScript Usergroup](https://cbusjs.github.io/)
 - [ScriptScribe (databases/Devops)](https://www.scriptscribe.org/)
 - [Girl Develop It - accessible training for - women](https://www.girldevelopit.com/chapters/columbus)
 - [Per Scholas - free IT training for the unemployed](http://perscholas.org/columbus/)
