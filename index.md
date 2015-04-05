@@ -34,15 +34,17 @@ Without the support of these amazing people, Pair Columbus would not be possible
 - all of our various attendees
 
 ### Location
-We're located on the 11th floor. Park in the garage and take the elevator to the 3rd floor. Sign in at the security desk and tell them you need to head to the 11th floor.
+We're located on the 11th floor. Park in the garage and take the elevator to the 3rd floor. Sign in at the security desk and tell them you need to take the elevator to the 11th floor.
 
-<iframe
-  width="625"
-  height="450"
-  frameborder="0" style="border:0;"
-  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAQx78hpYLgn95HMJ2l87B3q0JC9BbjzgI
-  &q=2+Miranova+Pl+Floor+10,Columbus+OH&">
-</iframe>
+<div class="map-container">
+  <iframe
+    width="625"
+    height="450"
+    frameborder="0" style="border:0;"
+    src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAQx78hpYLgn95HMJ2l87B3q0JC9BbjzgI
+      &q=2+Miranova+Pl+Floor+10,Columbus+OH&">
+  </iframe>
+</div>
 
 ### Contact
 Email: <info@paircolumbus.org>

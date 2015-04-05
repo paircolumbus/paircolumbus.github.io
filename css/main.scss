@@ -53,3 +53,17 @@ $on-laptop:        800px;
 img:not(.emoji) {
   border: 1px solid $grey-color-light;
 }
+
+.map-container {
+    position: relative;
+    padding-bottom: 65.25%;
+    padding-top: 30px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.map-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
