@@ -1,0 +1,83 @@
+---
+layout: page
+title: Challenges
+permalink: /challenges/
+---
+
+Challenges are marked by difficulty level.
+
+__Beginner:__ Rusty or new to web development, limited knowledge of programming languages & related tools
+
+__Automated Testing:__ A special track for those with an interest in Ruby testing & automation techniques
+
+__Intermediate:__ Very familiar with Ruby, JS, MacOS/Linux, Shell, Git & your text editor of choice.
+
+##Session Drills
+__Note:__ Most of these drills are not domain specific and can be completed with the Ruby, Python or NodeJS libraries.
+
+###Beginner
+Your goal is to complete each drill successfully and comfortably using common Ruby methods & syntax. If you are new to programming, please start with our [resources](/resources/) before continuing.
+
+ - [Git It](https://github.com/paircolumbus/Git-It)
+ - [Ruby Refresher](https://github.com/paircolumbus/RubyRefresher)  
+ - [Let's Drill](https://github.com/paircolumbus/LetsDrill)
+ - [More Enumerables](https://github.com/paircolumbus/MoreEnumerables)
+ - [More Drills With RSpec](https://github.com/paircolumbus/MoreDrillsWithRSpec)
+ - [Find The Anagrams](https://github.com/paircolumbus/FindTheAnagrams)
+ - [Fix the Tree TDD](https://github.com/paircolumbus/FixTheTreeTDD)
+ - [MVCgame](https://github.com/paircolumbus/MVCgame)
+
+###Automated Testing
+Your goal is to complete each beginner drill successfully and have a good understanding of how to use common Ruby testing tools like Capybara, RSpec, & Cucumber.
+
+ - [Do You Know The DOM](https://github.com/paircolumbus/DoYouKnowTheDOM)
+ - [Do You Know The DOM 2](https://github.com/paircolumbus/DoYouKnowTheDom2)  
+ - [Parser Challenge: Version 1](https://github.com/paircolumbus/ParserChallenge1)
+ - [Fix the Tree TDD](https://github.com/paircolumbus/FixTheTreeTDD)
+ - [Cucumber Basics](https://github.com/paircolumbus/CucumberBasics)
+ - [Capybara101](https://github.com/paircolumbus/Capybara101)
+
+###Intermediate
+Your goal is to complete each beginner & automated testing drill and achieve an understanding of basic web development (Rails).
+
+ - [Counting Words](https://github.com/paircolumbus/CountingWords)
+ - [Healthy Relationships](https://github.com/paircolumbus/HealthyRelationships)
+ - [Form Validator](https://github.com/paircolumbus/FormValidator)
+ - [Rap Name Generator](https://github.com/paircolumbus/RapNameGenerator)  
+ - [Bitly Clone](https://github.com/paircolumbus/BitlyClone)
+ - [Not Allowed: User Auth](https://github.com/paircolumbus/NotAllowed)  
+
+###JavaScript
+These drills will help you develop a basic proficiency in web development, functional & asynchronous programming with JS/Nodejs.
+
+ - [JavaScripting 101](https://github.com/paircolumbus/javascripting101)
+ - [Form Validator](https://github.com/paircolumbus/FormValidator)
+ - [learnyounode](https://github.com/paircolumbus/learnyounode)
+
+###Extra Credit
+These are extra drills used to improve your over full-stack development skills.
+
+ - [Bootstrap Grid](https://github.com/paircolumbus/BootstrapGridSystem)
+ - [Socket & Thread](https://github.com/paircolumbus/SocketAndThread)
+
+##How to submit challenges via GitHub
+
+If you don't have Git or Ruby installed on your computer, please [start here](/getting_started/).
+
+###Submitting Challenges for Review
+[![submitting challenges](http://i.imgur.com/6dZYqjx.gif)](http://imgur.com/6dZYqjx)
+
+- Login to your Github.com account
+- Fork the challenge that you want to work on from Pair Columbus
+- _Clone_ its repo to your computer
+- Create a new _branch_
+- _Add_ & _commit_ your changes
+- _Push_ your changes back to your Github account
+- Issue a _pull request_ for your branch from Github
+
+###Documentation
+- <http://git-scm.com/documentation>
+- <https://www.atlassian.com/git/tutorials/>
+
+##Contributing
+We're looking for more challenges! To submit your own for the advancement of others, please check out our section on [contributing](https://github.com/paircolumbus/paircolumbus.github.io/blob/master/CONTRIBUTING.md).
