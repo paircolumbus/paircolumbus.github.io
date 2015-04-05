@@ -50,6 +50,6 @@ $on-laptop:        800px;
 
 
 
-img {
+img:not(.emoji) {
   border: 1px solid $grey-color-light;
 }
