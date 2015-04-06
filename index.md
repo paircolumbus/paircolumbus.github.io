@@ -10,13 +10,16 @@ Please bring your own laptop to work on. We'll help you set up your environment 
 - [New Members: Start Here](/getting_started/)
 - [Track your Challenge Progress](http://challengeprogress.herokuapp.com/)
 - [Challenge Guide](/challenges/)
-- [How to submit completed challenges](/challenges/#how-to-submit-challenges-via-github)
+- [View our GitHub Repositories](https://github.com/paircolumbus/)
 
 ### 2015 Schedule
 [View schedule & obtain an event ticket](https://www.eventbrite.com/e/pair-programming-mentoring-covermymeds-tickets-15224426670)
 
+### Contact
+Email: <info@paircolumbus.org>
+
 ### Location
-We're located on the 11th floor. Park in the garage and take the elevator to the 3rd floor. Sign in at the security desk and tell them you need to head to the 11th floor.
+Park in the garage and take the elevator to the 3rd floor. Sign in at the security desk and tell them you need to head to the 11th floor, CoverMyMeds.
 
 <iframe
   width="625"
@@ -26,11 +29,7 @@ We're located on the 11th floor. Park in the garage and take the elevator to the
   &q=2+Miranova+Pl+Floor+10,Columbus+OH&">
 </iframe>
 
-### Contact
-Email: <info@paircolumbus.org>
-
-### Friends & Links
-- [GitHub/paircolumbus](https://github.com/paircolumbus)
+### Friends
 - [Columbus Ruby Brigade](http://columbusrb.com/)
 - [CBus JavaScript Usergroup](https://cbusjs.github.io/)
 - [ScriptScribe (Engineering @ CMM)](https://www.scriptscribe.org/)
