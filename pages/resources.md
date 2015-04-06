@@ -8,6 +8,7 @@ permalink: /resources/
 If you're completely new to programming you may want to consider these resources. I recommend that beginner's complete all of the following before starting on our challenges.
 
 - [Typing.io](https://typing.io/) - I'd highly recommend becoming a touch typer if you're not already. Try out the Ruby track and aim for at least 40wpm.
+- [Learn Markdown](http://markdowntutorial.com/) - Markdown is a fun, user-friendly way to write content for the web. It's frequently used by sites like Github and reddit.
 - [Code Academy](http://www.codecademy.com/learn) -> Pick your poison - HTML/CSS, JavaScript, JQuery & (Ruby/Python) tracks are all recommended.
 - [CLI the Hard Way](http://cli.learncodethehardway.org/book/) -> Learn Bash - At some point, we're going to be using the command line quite a bit to handle things like basic navigation, source control, bundling dependencies, starting up web servers, and deploying our apps for the world to see! But before we can do that, we'll need to be familiar with the basics.
 - [Learn Git](https://try.github.io/levels/1/challenges/1) -> Try Git - What's Git? It's probably one of the most important tools you'll ever use as a software engineer. If you're not hip, then start with this tutorial.
