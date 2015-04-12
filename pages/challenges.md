@@ -84,7 +84,7 @@ We're in need of new challenges to help make us a great resource for those looki
 
 ###Submitting your challenge
 - Make sure you have a [GitHub account](https://github.com/signup/free)
-- Fork the [Challenge Skeleton](https://github.com/paircolumbus/ChallengeSkeleton) on GitHub & follow it's format
+- Fork the [Challenge Skeleton](https://github.com/paircolumbus/ChallengeSkeleton) on GitHub & follow its format
 - Push your changes to a topic branch in your fork of the repository
 - Submit a pull request to the repository in the Engineers organization
 - We'll review it and close the pull request! Thanks :smile:
