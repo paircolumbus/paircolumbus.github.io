@@ -23,4 +23,4 @@ __Read the docs__ -> [Ruby](http://ruby-doc.org/) / [Rails](http://guides.rubyon
 
 > Rails: The [_Getting Started Guide_](http://guides.rubyonrails.org/getting_started.html) is a great place for familiarizing yourself with core components like partials, helpers, migrations, and generators.
 
-__NOTE:__ There's no expectation that you learn this stuff overnight, but instead that you review and start familiaring yourself with key concepts. Bring your questions to our first meetup!
+__Note:__ There's no expectation that you learn this stuff overnight, but instead that you review and start familiaring yourself with key concepts. Bring your questions to our first meetup!
