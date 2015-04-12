@@ -21,13 +21,15 @@ Email: <info@paircolumbus.org>
 ### Location
 Park in the garage and take the elevator to the 3rd floor. Sign in at the security desk and tell them you need to head to the 11th floor, CoverMyMeds.
 
-<iframe
-  width="625"
-  height="450"
-  frameborder="0" style="border:0;"
-  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAQx78hpYLgn95HMJ2l87B3q0JC9BbjzgI
-  &q=2+Miranova+Pl+Floor+10,Columbus+OH&">
-</iframe>
+<p>
+  <address>
+    <a href="https://goo.gl/maps/XLvbG">
+      CoverMyMeds Columbus Office<br>
+      2 Miranova Pl.<br>
+      Columbus, OH 43215
+    </a>
+  </address>
+</p>
 
 ### Friends
 - [Columbus Ruby Brigade](http://columbusrb.com/)
