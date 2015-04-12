@@ -49,10 +49,6 @@ $on-laptop:        800px;
 ;
 
 
-img:not(.emoji) {
+img:not(.emoji, .logo) {
   border: 1px solid $grey-color-light;
-}
-
-.logo img {
-  border: none;
 }
