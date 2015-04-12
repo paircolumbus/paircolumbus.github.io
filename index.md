@@ -36,4 +36,6 @@ Park in the garage and take the elevator to the 3rd floor. Sign in at the securi
 - [Per Scholas (free IT training for the unemployed)](http://perscholas.org/columbus/)
 
 ### Sponsored By
-[CoverMyMeds](https://www.covermymeds.com/main/), [GoodProduce](http://goodproduce.net) & [Custom Shirts](http://www.customshirts.com/)
+- [CoverMyMeds](https://www.covermymeds.com/main/)
+- [GoodProduce](http://goodproduce.net)
+- [Custom Shirts](http://www.customshirts.com/)
