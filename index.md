@@ -32,8 +32,8 @@ Park in the garage and take the elevator to the 3rd floor. Sign in at the securi
 - [Columbus Ruby Brigade](http://columbusrb.com/)
 - [CBus JavaScript Usergroup](https://cbusjs.github.io/)
 - [ScriptScribe (Engineering @ CMM)](https://www.scriptscribe.org/)
-- [Girl Develop It - training for women](https://www.girldevelopit.com/chapters/columbus)
-- [Per Scholas - free IT training for the unemployed](http://perscholas.org/columbus/)
+- [Girl Develop It (training for women)](https://www.girldevelopit.com/chapters/columbus)
+- [Per Scholas (free IT training for the unemployed)](http://perscholas.org/columbus/)
 
 ### Sponsored By
 [CoverMyMeds](https://www.covermymeds.com/main/), [GoodProduce](http://goodproduce.net) & [Custom Shirts](http://www.customshirts.com/)

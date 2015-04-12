@@ -76,8 +76,8 @@ If you don't have Git or Ruby installed on your computer, please [start here](/g
 - Issue a _pull request_ for your branch from Github
 
 ###Documentation
-- <http://git-scm.com/documentation>
-- <https://www.atlassian.com/git/tutorials/>
+- [Git Documentation](http://git-scm.com/documentation)
+- [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/)
 
 ##Contributing
 We're in need of new challenges to help make us a great resource for those looking to learn more about creating and testing web applications. Though, the majority of our current challenges are in Ruby, we're striving to become more language agnostic. Currently, we're looking for new challenges in Python, Ruby, and JS including client-side frameworks like Backbone & AngularJS.
