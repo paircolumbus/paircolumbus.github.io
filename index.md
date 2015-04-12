@@ -15,9 +15,6 @@ Please bring your own laptop to work on. We'll help you set up your environment 
 ### 2015 Schedule
 [View schedule & obtain an event ticket](https://www.eventbrite.com/e/pair-programming-mentoring-covermymeds-tickets-15224426670)
 
-### Contact
-Email: <info@paircolumbus.org>
-
 ### Location
 Park in the garage and take the elevator to the 3rd floor. Sign in at the security desk and tell them you need to head to the 11th floor, CoverMyMeds.
 
