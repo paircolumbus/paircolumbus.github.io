@@ -15,50 +15,20 @@ __Intermediate:__ Very familiar with Ruby, JS, MacOS/Linux, Shell, Git & your te
 ##Session Drills
 __Note:__ Most of these drills are not domain specific and can be completed with the Ruby, Python or NodeJS libraries.
 
-###Beginner
-Your goal is to complete each drill successfully and comfortably using common Ruby methods & syntax. If you are new to programming, please start with our [resources](/resources/) before continuing.
-
- - [Git It](https://github.com/paircolumbus/Git-It)
- - [Ruby Refresher](https://github.com/paircolumbus/RubyRefresher)  
- - [Let's Drill](https://github.com/paircolumbus/LetsDrill)
- - [More Enumerables](https://github.com/paircolumbus/MoreEnumerables)
- - [More Drills With RSpec](https://github.com/paircolumbus/MoreDrillsWithRSpec)
- - [Find The Anagrams](https://github.com/paircolumbus/FindTheAnagrams)
- - [Fix the Tree TDD](https://github.com/paircolumbus/FixTheTreeTDD)
- - [MVCgame](https://github.com/paircolumbus/MVCgame)
-
-###Automated Testing
-Your goal is to complete each beginner drill successfully and have a good understanding of how to use common Ruby testing tools like Capybara, RSpec, & Cucumber.
-
- - [Do You Know The DOM](https://github.com/paircolumbus/DoYouKnowTheDOM)
- - [Do You Know The DOM 2](https://github.com/paircolumbus/DoYouKnowTheDom2)  
- - [Parser Challenge: Version 1](https://github.com/paircolumbus/ParserChallenge1)
- - [Fix the Tree TDD](https://github.com/paircolumbus/FixTheTreeTDD)
- - [Cucumber Basics](https://github.com/paircolumbus/CucumberBasics)
- - [Capybara101](https://github.com/paircolumbus/Capybara101)
-
-###Intermediate
-Your goal is to complete each beginner & automated testing drill and achieve an understanding of basic web development (Rails).
-
- - [Counting Words](https://github.com/paircolumbus/CountingWords)
- - [Healthy Relationships](https://github.com/paircolumbus/HealthyRelationships)
- - [Form Validator](https://github.com/paircolumbus/FormValidator)
- - [Rap Name Generator](https://github.com/paircolumbus/RapNameGenerator)  
- - [Bitly Clone](https://github.com/paircolumbus/BitlyClone)
- - [Not Allowed: User Auth](https://github.com/paircolumbus/NotAllowed)  
-
-###JavaScript
-These drills will help you develop a basic proficiency in web development, functional & asynchronous programming with JS/Nodejs.
-
- - [JavaScripting 101](https://github.com/paircolumbus/javascripting101)
- - [Form Validator](https://github.com/paircolumbus/FormValidator)
- - [learnyounode](https://github.com/paircolumbus/learnyounode)
-
-###Extra Credit
-These are extra drills used to improve your over full-stack development skills.
-
- - [Bootstrap Grid](https://github.com/paircolumbus/BootstrapGridSystem)
- - [Socket & Thread](https://github.com/paircolumbus/SocketAndThread)
+<!-- challenge categories -->
+{% for category in site.data.challenges %}
+  <h3>{{ category.category }}</h3>
+  <p>{{ category.description | markdownify }}</p>
+  <ul>
+    {% for challenge in category.challenges %}
+      <li>
+        <a href="https://github.com/paircolumbus/{{ challenge }}">
+          {{ challenge }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
 
 ##How to submit challenges via GitHub
 

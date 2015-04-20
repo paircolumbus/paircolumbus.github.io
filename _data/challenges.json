@@ -1,0 +1,57 @@
+[
+  {
+    "category": "Beginner",
+    "description": "Your goal is to complete each drill successfully and comfortably using common Ruby methods & syntax. If you are new to programming, please start with our [resources](/resources/) before continuing.",
+    "challenges": [
+      "Git-It",
+      "RubyRefresher",
+      "LetsDrill",
+      "MoreEnumerables",
+      "MoreDrillsWithRSpec",
+      "FindTheAnagrams",
+      "FixTheTreeTDD",
+      "MVCgame"
+    ]
+  },
+  {
+    "category": "Automated Testing",
+    "description": "Your goal is to complete each beginner drill successfully and have a good understanding of how to use common Ruby testing tools like Capybara, RSpec, & Cucumber.",
+    "challenges": [
+      "DoYouKnowTheDOM",
+      "DoYouKnowTheDom2",
+      "ParserChallenge1",
+      "FixTheTreeTDD",
+      "CucumberBasics",
+      "Capybara101"
+    ]
+  },
+  {
+    "category": "Intermediate",
+    "description": "Your goal is to complete each beginner & automated testing drill and achieve an understanding of basic web development (Rails).",
+    "challenges": [
+      "CountingWords",
+      "HealthyRelationships",
+      "FormValidator",
+      "RapNameGenerator",
+      "BitlyClone",
+      "NotAllowed"
+    ]
+  },
+  {
+    "category": "JavaScript",
+    "description": "These drills will help you develop a basic proficiency in web development, functional & asynchronous programming with JS/Nodejs.",
+    "challenges": [
+      "javascripting101",
+      "FormValidator",
+      "learnyounode"
+    ]
+  },
+  {
+    "category": "Extra Credit",
+    "description": "These are extra drills used to improve your over full-stack development skills.",
+    "challenges": [
+      "BootstrapGridSystem",
+      "SocketAndThread"
+    ]
+  }
+]
