@@ -46,8 +46,15 @@ If you don't have Git or Ruby installed on your computer, please [start here](/g
 - Issue a _pull request_ for your branch from Github
 
 ###Documentation
-- <http://git-scm.com/documentation>
-- <https://www.atlassian.com/git/tutorials/>
+- [Git Documentation](http://git-scm.com/documentation)
+- [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/)
 
 ##Contributing
-We're looking for more challenges! To submit your own for the advancement of others, please check out our section on [contributing](https://github.com/paircolumbus/paircolumbus.github.io/blob/master/CONTRIBUTING.md).
+We're in need of new challenges to help make us a great resource for those looking to learn more about creating and testing web applications. Though, the majority of our current challenges are in Ruby, we're striving to become more language agnostic. Currently, we're looking for new challenges in Python, Ruby, and JS including client-side frameworks like Backbone & AngularJS.
+
+###Submitting your challenge
+- Make sure you have a [GitHub account](https://github.com/signup/free)
+- Fork the [Challenge Skeleton](https://github.com/paircolumbus/ChallengeSkeleton) on GitHub & follow its format
+- Push your changes to a topic branch in your fork of the repository
+- Submit a pull request to the repository in the Engineers organization
+- We'll review it and close the pull request! Thanks :smile:
