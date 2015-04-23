@@ -22,7 +22,7 @@ category
 : The name of the category.
 
 description
-: One or more sentences describing the intention of the challenges in the category.
+: One or more sentences describing the intention of the challenges in the category. Note that some descriptions contain [Markdown](http://daringfireball.net/projects/markdown/) content, so you may need to render them with a Markdown parser first.
 
 challenges
 : A list of strings of challenge names. Each challenge is named exactly after the name of its repository in the [Pair Columbus GitHub Organization](https://github.com/paircolumbus). To get the URL of a challenge's repository, prepend `https://github.com/paircolumbus/` to its name.
