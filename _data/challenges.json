@@ -1,7 +1,7 @@
 [
   {
     "category": "Beginner",
-    "description": "Your goal is to complete each drill successfully and comfortably using common Ruby methods & syntax. If you are new to programming, please start with our [resources](/resources/) before continuing.",
+    "description": "Your goal is to complete each drill successfully and comfortably using common Ruby methods & syntax. If you are new to programming, please start with our [resources](http://paircolumbus.org/resources/) before continuing.",
     "challenges": [
       "Git-It",
       "RubyRefresher",
