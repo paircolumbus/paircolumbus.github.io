@@ -7,7 +7,7 @@ permalink: /api/
 The Pair Columbus API is a public, read-only resource for information related to the group and its resources. For now, it just serves static JSON used to generate the [Challenges page](/challenges/).
 
 ## [Challenges](/api/challenges.json)
-This endpoint returns all active Pair Columbus challenges in categories (generally based on difficultly or technologies used).
+This endpoint returns all active Pair Columbus challenges in categories (generally based on difficulty or technologies used).
 
 ### Request
 `GET http://paircolumbus.org/api/challenges.json`
