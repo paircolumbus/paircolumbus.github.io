@@ -22,4 +22,3 @@ __Note:__ * = These sessions include a beginner's install & tooling workshop. Br
 - May 9th*
 - May 23rd
 - June 6th*
-- June 20th
