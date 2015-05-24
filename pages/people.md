@@ -6,13 +6,14 @@ permalink: /people/
 
 Without the support of these amazing people, Pair Columbus would not be possible:
 
-- @degoeym
+- @degoeym - mentor
+- @cartoloupe - mentor
+- Brian Lees - mentor
+- @nicolasmccurdy - visiting mentor
+- @jaybobo - founding mentor
 - @jkcable
+- @kellynestor
 - Lauren Campbell
-- Vasanth Pappu
-- Brian Lees
-- @nicolasmccurdy
 - @theidlemonk
 - @VariousWeapon
-- @jaybobo
 - all of our various attendees
