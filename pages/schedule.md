@@ -13,12 +13,11 @@ For updates and other information, sign up for [our email list](https://docs.goo
 
 __Note:__ * = These sessions include a beginner's install & tooling workshop. Bring your laptop and lots of questions. Our mentors will aid with setting up your local development environment.
 
-- February 14th*
-- February 28th
-- March 14th*
-- March 28th
-- April 11th*
-- April 25th
-- May 9th*
-- May 23rd
 - June 6th*
+- July 11
+- August 8
+- September 12
+- October 10
+- November 14
+- December 12
+- January 9
