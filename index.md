@@ -5,6 +5,8 @@ layout: default
 {{ site.description }}
 
 ## Welcome
+![img](http://i.imgur.com/OmBFBDK.jpg)  
+  
 Please bring your own laptop to work on. We'll help you set up your environment so you can get started! Breakfast snacks like bagels and fruit are provided.
 
 - [New Members: Start Here](/getting_started/)
