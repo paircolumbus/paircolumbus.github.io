@@ -10,7 +10,6 @@
       "MoreDrillsWithRSpec",
       "FindTheAnagrams",
       "FixTheTreeTDD",
-      "RefactoringWithRubocop",
       "MVCgame"
     ]
   },
@@ -23,7 +22,8 @@
       "ParserChallenge1",
       "FixTheTreeTDD",
       "CucumberBasics",
-      "Capybara101"
+      "Capybara101",
+      "RefactoringWithRubocop"
     ]
   },
   {
