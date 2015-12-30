@@ -9,7 +9,7 @@ permalink: /schedule/
 Here's our schedule for the rest of 2016. You can [register to attend the workshop](https://www.eventbrite.com/e/pair-programming-mentoring-covermymeds-tickets-15224426670).
 
 ### Meetup Times
-For updates and other information, sign up for [our email list](https://docs.google.com/a/goodproduce.net/forms/d/11WzmAGErqLTQ6NAwtBOTVl_BOlkXdj3L-8tbzBNGb9s/viewform).
+For updates and other information, sign up for [our email list](http://paircolumbus.org/).
 
 - January 9
 - February 13
