@@ -7,6 +7,8 @@ layout: default
 ## Welcome
 ![img](http://i.imgur.com/OmBFBDK.jpg)  
   
+We also function as the local chapter of [NodeSchool](http://nodeschool.io). Check our [schedule](/schedule) to find out when our next NodeSchool session is happening.  
+
 Please bring your own laptop to work on. We'll help you set up your environment so you can get started! Breakfast snacks like bagels and fruit are provided.
 
 - [New Members: Start Here](/getting_started/)
