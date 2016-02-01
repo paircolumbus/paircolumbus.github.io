@@ -48,7 +48,7 @@ Park in the garage and take the elevator to the 3rd floor. Sign in at the securi
   </address>
 </p>
 
-### 2015 Schedule
+### 2016 Schedule
 [View schedule & obtain an event ticket](https://www.eventbrite.com/e/pair-programming-mentoring-covermymeds-tickets-15224426670)
 
 ### Friends
