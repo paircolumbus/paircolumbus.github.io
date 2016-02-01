@@ -10,7 +10,7 @@ Before we begin coding, let's setup your local development environment. Mac user
 
 ### Mac Users  
 - [Install Git](http://git-scm.com/download/)  
-- [Install RVM](http://rvm.io/)  
+- [Install chruby](https://github.com/postmodern/chruby) or [rbenv](https://github.com/sstephenson/rbenv)  
 - [Install Atom Editor](https://atom.io/)
 
 ### Windows Users  
