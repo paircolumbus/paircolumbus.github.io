@@ -15,28 +15,28 @@ __Mentors:__
  - jkcable@yahoo.com
  - @jkcable
 
-#####Michael Gee
- - @mikegee
- - michaelpgee@gmail.com
+##### Michael Gee
+- @mikegee
+- michaelpgee@gmail.com
 
-#####Vasanth Pappu
- - @cartoloupe
- - vasanth.pappu@gmail.com
+##### Vasanth Pappu
+- @cartoloupe
+- vasanth.pappu@gmail.com
 
-#####Brian Lees
+##### Brian Lees
 - @brianlees
 - brianlees81@gmail.com
 
-#####Nicolas McCurdy
- - @nicolasmccurdy
- - thenickperson@gmail.com
+##### Nicolas McCurdy
+- @nicolasmccurdy
+- thenickperson@gmail.com
 
-#####Tirthankar Bhattacharjee
- - @theidlemonk
+##### Tirthankar Bhattacharjee
+- @theidlemonk
 
-#####Jay Bobo
- - @jaybobo
- - jbobo@goodproduce.net
+##### Jay Bobo
+- @jaybobo
+- jbobo@goodproduce.net
 
-#####Joshua Hamilton
- - @VariousWeapon
+##### Joshua Hamilton
+- @VariousWeapon
