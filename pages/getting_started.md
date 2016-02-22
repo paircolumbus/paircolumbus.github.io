@@ -7,7 +7,8 @@ permalink: /getting_started/
 If you're completely new to programming, you'll want to learn the basics. There's a lot to learn.   
 [Start Here: Learning to program](/resources)
 
-##Machine Setup :frowning:
+##Machine Setup :frowning:  
+
 Before you start working on challenges, let's setup your local development environment. Mac users should note that their operating systems come with a system Ruby & Python. Consider the setup below to be optional.
 
 ### Mac Users  
