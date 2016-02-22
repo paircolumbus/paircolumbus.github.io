@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 
 ##Learn! :smile:
-If you're completely new to programming you may want to consider these resources. I recommend that beginner's complete all of the following before starting on our challenges.
+If you're completely new to programming you may want to consider these resources. I recommend that beginner's start working on at least [one Code School track](https://www.codecademy.com/learn) before attending a meetup.
 
 ###[Typing.io](https://typing.io/)
 I'd highly recommend becoming a touch typer if you're not already. Try out the Ruby track and aim for at least 40wpm.
@@ -26,6 +26,7 @@ Try Git - What's Git? It's probably one of the most important tools you'll ever 
 At some point, we'll do a little work with regular expressions. I'd highly encourage this tutorial for newbies.
 
 ###[Python the Hard Way](http://learnpythonthehardway.org/book/) or [Ruby the Hard Way](http://learnrubythehardway.org/book/)
+Raw, uncut instruction from Zed Shaw. The Hard Way series is highly recommended.
 
 ###[The Odin Project](http://www.theodinproject.com)
 A road map that guides you through the best free resources for learning web development. It also provides small projects to add to your portfolio and helps you retain the material. Not necessary for Pair Columbus challenges, but it can keep you on track in further studies.
