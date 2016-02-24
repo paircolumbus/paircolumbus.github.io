@@ -7,7 +7,7 @@ layout: default
   
 <h3>Event Details</h3>   
 
-Topic: ""Symbiotic Design - Preventing Technical Debt By Making Organization's Safe for Code"    
+Topic: "Symbiotic Design - Preventing Technical Debt By Making Organizations Safe for Code"    
 When: __Wednesday, March 2nd at 6:30pm__     
 Where: [CoverMyMeds](https://goo.gl/maps/6TGqNqqoK8n)   
 Cost: __Free__
