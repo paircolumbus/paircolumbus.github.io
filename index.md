@@ -25,6 +25,7 @@ Please bring your laptop and questions.
 * [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)    
 
 <h3>Supported by</h3>
+* [LOPSA Columbus](http://www.eventbrite.com/o/lopsa-columbus-6734468585)
 * [Columbus ATDD](https://columbusatdd.wordpress.com/)
 * [PairColumbus](https://www.paircolumbus.org/)    
 * [ScriptScribe](https://www.scriptscribe.org/)   
