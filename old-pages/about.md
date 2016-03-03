@@ -1,8 +1,8 @@
----
-layout: page
-title: About Us
-permalink: /about-us/
----
+(*---*)
+(*layout: page*)
+(*title: About Us*)
+(*permalink: /about-us/*)
+(*---*)
 
 ![img](http://i.imgur.com/OmBFBDK.jpg)  
   
