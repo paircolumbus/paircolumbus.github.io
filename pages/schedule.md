@@ -17,7 +17,7 @@ For updates and other information, sign up for [our email list](http://paircolum
 - April 9
 - May 14 _(nodeschool)_
 - June 11
-- July 9 _(nodeschool)_
+- July 9 - [CRYPTOPARTY!!!](https://www.cryptoparty.in/)
 - August 13
 - September 10 _(nodeschool)_
 - October 8
