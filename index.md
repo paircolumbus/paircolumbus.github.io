@@ -21,9 +21,13 @@ We are extremely pumped to present a special event all about encryption and priv
 
 Please bring your laptop, mobile phone, two USB drives (4gb) and questions.
 
-<h3>For more about cryptoparties:</h3>   
+<h3>What's a cryptoparty?:</h3>   
 * [cryptoparty.in](https://www.cryptoparty.in/)
 * [Wikipedia: Cryptoparty](https://en.wikipedia.org/wiki/CryptoParty)
+
+<h3>What's encryption & key exchange?:</h3>
+* [Crypto 101 by Jesse Pollak](https://getclef.com/crypto101/)  
+* [Demystifying the Crypto behind Wordpress](http://wordpress.tv/2014/05/20/jesse-pollak-crypto-101-demystifying-the-cryptography-behind-wordpress/)
 
 <h3>Sponsored by <a href="https://www.covermymeds.com/main/">CoverMyMeds</a></h3>
 
