@@ -25,6 +25,12 @@ Please bring your laptop, mobile phone, two USB drives (4gb) and questions.
 * [cryptoparty.in](https://www.cryptoparty.in/)
 * [Wikipedia: Cryptoparty](https://en.wikipedia.org/wiki/CryptoParty)
 
+<h3>Our angels / speakers</h3> 
+* Jim Cavoli - encryption, key exchange & email
+* Channie Chance - mobile security
+* Ricky Rickard - tails operating system
+* Peter Mueller - the onion router
+
 <h3>What's encryption & key exchange?:</h3>
 * [Crypto 101 by Jesse Pollak](https://getclef.com/crypto101/)  
 * [Demystifying the Crypto behind Wordpress](http://wordpress.tv/2014/05/20/jesse-pollak-crypto-101-demystifying-the-cryptography-behind-wordpress/)
