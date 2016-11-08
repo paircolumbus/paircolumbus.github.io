@@ -21,5 +21,5 @@ For updates and other information, sign up for [our email list](http://paircolum
 - August 13
 - September 10 _(nodeschool)_
 - October 8
-- November 12 _(nodeschool)_
+- November 12 - [CANCELED for Startup Weekend](http://www.up.co/communities/usa/columbus/startup-weekend/9968)
 - December 10
