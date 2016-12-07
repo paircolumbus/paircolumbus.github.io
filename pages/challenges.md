@@ -12,7 +12,7 @@ __Automated Testing:__ A special track for those with an interest in Ruby testin
 
 __Intermediate:__ Very familiar with Ruby, JS, MacOS/Linux, Shell, Git & your text editor of choice.
 
-##Session Drills
+## Session Drills
 __Note:__ Most of these drills are not domain specific and can be completed with the Ruby, Python or NodeJS libraries.
 
 <!-- challenge categories -->
@@ -30,11 +30,11 @@ __Note:__ Most of these drills are not domain specific and can be completed with
   </ul>
 {% endfor %}
 
-##How to submit challenges via GitHub
+## How to submit challenges via GitHub
 
 If you don't have Git or Ruby installed on your computer, please [start here](/getting_started/).
 
-###Submitting Challenges for Review
+### Submitting Challenges for Review
 [![submitting challenges](http://i.imgur.com/6dZYqjx.gif)](http://imgur.com/6dZYqjx)
 
 - Login to your Github.com account
@@ -45,14 +45,14 @@ If you don't have Git or Ruby installed on your computer, please [start here](/g
 - _Push_ your changes back to your Github account
 - Issue a _pull request_ for your branch from Github
 
-###Documentation
+### Documentation
 - [Git Documentation](http://git-scm.com/documentation)
 - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/)
 
-##Contributing
+## Contributing
 We're in need of new challenges to help make us a great resource for those looking to learn more about creating and testing web applications. Though, the majority of our current challenges are in Ruby, we're striving to become more language agnostic. Currently, we're looking for new challenges in Python, Ruby, and JS including client-side frameworks like Backbone & AngularJS.
 
-###Submitting your challenge
+### Submitting your challenge
 - Make sure you have a [GitHub account](https://github.com/signup/free)
 - Fork the [Challenge Skeleton](https://github.com/paircolumbus/ChallengeSkeleton) on GitHub & follow its format
 - Push your changes to a topic branch in your fork of the repository
