@@ -15,6 +15,8 @@ We meet the 2nd Saturday of each month at 11am at CoverMyMeds. Check our schedul
 - [View our GitHub repositories](https://github.com/paircolumbus/)
 - [Our Slack group](https://paircolumbus.slack.com) - Ask a current member for an invite.
 
+<br />
+
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
   #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
@@ -32,7 +34,6 @@ We meet the 2nd Saturday of each month at 11am at CoverMyMeds. Check our schedul
 </div>
 
 - - -
-<br />
 
 
 ### Location
@@ -48,8 +49,8 @@ Park in the garage and take the elevator to the 3rd floor. Sign in at the securi
   </address>
 </p>
 
-### 2016 Schedule
-[View schedule & obtain an event ticket](https://www.eventbrite.com/e/pair-programming-mentoring-covermymeds-tickets-15224426670)
+
+<br />
 
 ### Friends
 - [Columbus Ruby Brigade](http://columbusrb.com/)
@@ -57,6 +58,8 @@ Park in the garage and take the elevator to the 3rd floor. Sign in at the securi
 - [ScriptScribe (Engineering @ CMM)](https://www.scriptscribe.org/)
 - [Girl Develop It (training for women)](https://www.girldevelopit.com/chapters/columbus)
 - [Per Scholas (free IT training for the unemployed)](https://perscholas.org/?city=columbus)
+
+<br />
 
 ### Sponsored By
 - [CoverMyMeds](https://www.covermymeds.com/main/)
