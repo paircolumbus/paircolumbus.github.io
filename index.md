@@ -6,7 +6,7 @@ layout: default
   
 Pair Columbus is a pairing and mentoring group for new and experienced software engineers. We also function as the local chapter of [NodeSchool](http://nodeschool.io). Check our [schedule](/schedule) to find out when our next NodeSchool session is happening.  
 
-Please bring your own laptop to work on. We'll help you set up your environment so you can get started! Breakfast snacks like bagels and fruit are provided.
+Please bring your own laptop to work on. We'll help you set up your environment so you can get started! 
 
 - Pair Columbus is [canceled](http://www.up.co/communities/usa/columbus/startup-weekend/9968) on November 12th
 - [New Members: Start Here](/getting_started/)
