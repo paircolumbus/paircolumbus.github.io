@@ -7,10 +7,8 @@ permalink: /schedule/
 ## 2016-2017
 
 ### Meetup Times
-For updates and other information, sign up for [our email list](http://paircolumbus.org/). [NodeSchool](http://nodeschool.io) sessions with an emphasis on NodeJS & Javascript are noted below.
+For updates and other information, sign up for [our email list](http://paircolumbus.org/). [NodeSchool](http://nodeschool.io) sessions with an emphasis on NodeJS & Javascript are noted below. Each meetup is held at 11am.
 
-- November 12 - [CANCELED for Startup Weekend](http://www.up.co/communities/usa/columbus/startup-weekend/9968)
-- December 10
 - January 14
 - February 11
 - March 11
