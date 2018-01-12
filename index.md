@@ -8,6 +8,8 @@ Pair Columbus is a pairing and mentoring group for new and experienced software 
 
 We meet the 2nd Saturday of each month at 11am at CoverMyMeds. Check our schedule for dates. Please bring your own laptop to work on. We'll help you set up your environment so you can get started! 
 
+# ALERT: Our event at CoverMyMeds is CANCELED on January 13th due to weather!
+
 
 - [New Members: Start Here](/getting_started/)
 - [Track your challenge progress](http://challengeprogress.herokuapp.com/)
