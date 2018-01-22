@@ -10,12 +10,6 @@ Pair Columbus is a pairing and mentoring group for new and experienced web appli
 - - -
 <br />
 
-## ALERT: Our event at CoverMyMeds is CANCELED on January 13th due to weather!
-
-<br />
-- - -
-<br />
-
 ## Meeting Times
 We meet the 2nd Saturday of each month at 11am at CoverMyMeds. Check our schedule for dates. __Please bring your own laptop.__
 

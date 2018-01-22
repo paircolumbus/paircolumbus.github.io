@@ -36,6 +36,7 @@
       "FormValidator",
       "RapNameGenerator",
       "BitlyClone",
+      "SidekiqAndHttp",
       "NotAllowed"
     ]
   },
