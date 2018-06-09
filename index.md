@@ -10,7 +10,7 @@ Pair Columbus is a pairing and mentoring group for new and experienced web appli
 - - -
 <br />
 
-### CANCELED
+# CANCELED
 We will NOT be meeting in June & July 2018. Have a great summer and we'll see you in August. For questions feel free to email us - info[at]paircolumbus[dot]org 
 
 ## Meeting Times
