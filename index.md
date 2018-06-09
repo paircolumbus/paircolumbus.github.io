@@ -10,6 +10,9 @@ Pair Columbus is a pairing and mentoring group for new and experienced web appli
 - - -
 <br />
 
+### CANCELED
+We will NOT be meeting in June & July 2018. Have a great summer and we'll see you in August. For questions feel free to email us - info[at]paircolumbus[dot]org 
+
 ## Meeting Times
 We meet the 2nd Saturday of each month at 11am at CoverMyMeds. Check our schedule for dates. __Please bring your own laptop.__
 
