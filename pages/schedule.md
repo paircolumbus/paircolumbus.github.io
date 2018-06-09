@@ -11,7 +11,7 @@ For updates and other information, sign up for [our email list](http://paircolum
 
 ### 2018
 - May 12
-- June 9
+- June 9 = __CANCELED__
 - July = __NO MEETING__
 - August 11
 - September 8
