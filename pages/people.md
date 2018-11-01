@@ -9,12 +9,8 @@ Without the support of these amazing people, Pair Columbus would not be possible
 __Mentors:__
 
 ### Matt DeGoey
-- degoeym@gmail.com
 - @degoeym
-
-### Jennifer Cable
-- jkcable@yahoo.com
-- @jkcable
+- degoeym@gmail.com
 
 ### Michael Gee
 - @mikegee
@@ -32,12 +28,12 @@ __Mentors:__
 - @nicolasmccurdy
 - thenickperson@gmail.com
 
-### Tirthankar Bhattacharjee
-- @theidlemonk
-
 ### Jay Bobo
 - @jaybobo
-- jbobo@goodproduce.net
+- info@paircolumbus.org
 
-### Joshua Hamilton
-- @VariousWeapon
+### Travis Sperry
+- @TravisSperry
+
+### Joe Reich
+- @sjreich
