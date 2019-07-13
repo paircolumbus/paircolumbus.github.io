@@ -15,7 +15,7 @@ For updates and other information, sign up for [our email list](http://paircolum
 - March 9
 - April 13
 - May 11
-- June 8
+- June 8: __CANCELED___ 
 - July 13
 - August 10
 - September 14
