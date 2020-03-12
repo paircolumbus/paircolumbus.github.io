@@ -11,7 +11,9 @@ Pair Columbus is a pairing and mentoring group for new and experienced web appli
 <br />
 
 ## Meeting Times
-We meet the 2nd Saturday of each month at 11am at CoverMyMeds. Check our schedule for dates. __Please bring your own laptop.__
+~We meet the 2nd Saturday of each month at 11am at CoverMyMeds. Check our schedule for dates. __Please bring your own laptop.__~
+
+### Our face-to-face meetups and pairing sessions are postponed indefinitely to avoid community spread of COVID-19. We are considering remote meetings in the interim. Join our newsletter below or email us for questions.
 
 ## Meetup Details
 Each meetup is composed of (2) 1 hour pair programming sessions with a show-and-tell session in between. Each meetup has a theme. Sign up for our newsletter below to find out about next months theme. Previous themes include:
