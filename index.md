@@ -30,7 +30,7 @@ Each meetup is composed of (2) 1 hour pair programming sessions with a show-and-
 We provide a number of language agnostic drills for improving your capacity to build applications for the web. Learn more.
 
   - [New Members: Start Here](/getting_started/)
-  - [Track your challenge progress](http://challengeprogress.herokuapp.com/)
+  - [Track your challenge progress](https://dry-depths-47527.herokuapp.com/)
   - [Challenge Guide](/challenges/)
   - [View our GitHub repositories](https://github.com/paircolumbus/)
   - [Our Slack group](https://paircolumbus.slack.com): Ask a current member for an invite.
