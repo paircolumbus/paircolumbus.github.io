@@ -11,7 +11,7 @@ Pair Columbus is a pairing and mentoring group for new and experienced web appli
 <br />
 
 ## Meeting Times
-_Our face-to-face meetups and pairing sessions are postponed indefinitely._ Pair with a friend or try one of our programming [challenges](/challenges/) on your own.
+__Our face-to-face meetups and pairing sessions are postponed indefinitely.__ Pair with a friend or try one of our programming [challenges](/challenges/) on your own.
 
 ## Remote Resources
 We provide a number of language agnostic drills for improving your capacity to build applications for the web. Learn more.
