@@ -4,27 +4,14 @@ layout: default
 
 ![img](http://i.imgur.com/OmBFBDK.jpg)  
   
-Pair Columbus is a pairing and mentoring group for new and experienced web application developers. We host a number of code challenges and also a monthly meetup. We also function as the local chapter of [NodeSchool](http://nodeschool.io). Check our [schedule](/schedule) to find out when our next NodeSchool session is happening.  
+Pair Columbus is a pairing and mentoring group for new and experienced web application developers. We host a number of code challenges and also a monthly meetup. We also function as the local chapter of [NodeSchool](http://nodeschool.io).
 
 <br />
 - - -
 <br />
 
 ## Meeting Times
-~We meet the 2nd Saturday of each month at 11am at CoverMyMeds. Check our schedule for dates. __Please bring your own laptop.__~
-
-### Our face-to-face meetups and pairing sessions are postponed indefinitely to avoid community spread of COVID-19. We are considering remote meetings in the interim. Join our newsletter below or email us for questions.
-
-## Meetup Details
-Each meetup is composed of (2) 1 hour pair programming sessions with a show-and-tell session in between. Each meetup has a theme. Sign up for our newsletter below to find out about next months theme. Previous themes include:
-
-  - Social Media Bots 101
-  - Automated Testing
-  - Deploying Apps with Heroku
-  - Application Security & the OWASP Top 10
-  - Preparing for Technical Interviews
-  - Working with Message Queues via RabbitMQ
-  - Learning ReactJS
+_Our face-to-face meetups and pairing sessions are postponed indefinitely._ Pair with a friend or try one of our programming [challenges](/challenges/) on your own.
 
 ## Remote Resources
 We provide a number of language agnostic drills for improving your capacity to build applications for the web. Learn more.
@@ -60,9 +47,9 @@ We provide a number of language agnostic drills for improving your capacity to b
 <br />
 
 ### Location
-Park in the garage and take the elevator to the 3rd floor. Sign in at the security desk and tell them you need to head to the 11th floor, CoverMyMeds.
+<p>TBD</p>
 
-<p>
+<!-- <p>
   <address>
     <a href="https://goo.gl/maps/XLvbG">
       CoverMyMeds Columbus Office<br>
@@ -70,21 +57,18 @@ Park in the garage and take the elevator to the 3rd floor. Sign in at the securi
       Columbus, OH 43215
     </a>
   </address>
-</p>
+</p>-->
 
 
 <br />
 
 ### Friends
-- [Columbus Ruby Brigade](http://columbusrb.com/)
-- [CBus JavaScript Usergroup](https://cbusjs.github.io/)
-- [ScriptScribe (Engineering @ CMM)](https://www.scriptscribe.org/)
-- [Girl Develop It (training for women)](https://www.girldevelopit.com/chapters/columbus)
-- [Per Scholas (free IT training for the unemployed)](https://perscholas.org/?city=columbus)
+- [Columbus Ruby Brigade](https://www.meetup.com/columbusrb/)
+- [CBus JavaScript Usergroup](https://columbusjs.org/)
 
 <br />
 
 ### Sponsored By
-- [CoverMyMeds](https://www.covermymeds.com/main/)
+- [CoverMyMeds](https://www.covermymeds.com/)
 - [GoodProduce](http://goodproduce.net)
 - [Custom Shirts](http://www.customshirts.com/)
