@@ -53,7 +53,7 @@ We provide a number of language agnostic drills for improving your capacity to b
   <address>
     <a href="https://goo.gl/maps/XLvbG">
       CoverMyMeds Columbus Office<br>
-      2 Miranova Pl.<br>
+      910 John Street<br>
       Columbus, OH 43215
     </a>
   </address>
@@ -70,5 +70,4 @@ We provide a number of language agnostic drills for improving your capacity to b
 
 ### Sponsored By
 - [CoverMyMeds](https://www.covermymeds.com/)
-- [GoodProduce](http://goodproduce.net)
-- [Custom Shirts](http://www.customshirts.com/)
+- [BreachSiren](https://breachsiren.com)
