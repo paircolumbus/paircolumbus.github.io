@@ -17,7 +17,6 @@ __Our face-to-face meetups and pairing sessions are postponed indefinitely.__ Pa
 We provide a number of language agnostic drills for improving your capacity to build applications for the web. Learn more.
 
   - [New Members: Start Here](/getting_started/)
-  - [Track your challenge progress](https://dry-depths-47527.herokuapp.com/)
   - [Challenge Guide](/challenges/)
   - [View our GitHub repositories](https://github.com/paircolumbus/)
   - [Our Slack group](https://paircolumbus.slack.com): Ask a current member for an invite.
