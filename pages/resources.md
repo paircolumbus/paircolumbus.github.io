@@ -53,4 +53,6 @@ Read up on the following mehods:
 ### Rails
 The [Getting Started Guide](http://guides.rubyonrails.org/getting_started.html) is a great place for familiarizing yourself with core components like partials, helpers, migrations, and generators.
 
+[GoRails](https://gorails.com/episodes) is an awesome community to learn everything about the Ruby on Rails ecosystem. They also have a vibrant Discord server with thousands of active members. Check it out today!
+
 __Note:__ There's no expectation that you learn this stuff overnight, but instead that you review and start familiaring yourself with key concepts. Bring your questions to our first meetup!

@@ -2,7 +2,7 @@
 title: Pair Columbus
 email: info@paircolumbus.org
 description: > # this means to ignore newlines until "baseurl:"
-  A pairing and mentoring group for software engineers (Ruby/Python/JS)
+  A cybersecurity focused pairing group for new and experienced engineers
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://paircolumbus.org" # the base hostname & protocol for your site
 github_username:  paircolumbus
