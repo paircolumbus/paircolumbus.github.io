@@ -9,7 +9,7 @@ github_username:  paircolumbus
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
 - jekyll-mentions
 - jemoji
 exclude:
