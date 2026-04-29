@@ -4,7 +4,7 @@ layout: default
 
 ![img](http://i.imgur.com/OmBFBDK.jpg)  
   
-Pair Columbus is a cybersecurity focused pairing and mentoring group for new and experienced engineers. We host a number of DIY challenges that you can use to widen your understanding of web engineering and internet security fundamentals. 
+Pair Columbus is a cybersecurity focused pairing and mentoring group for new and experienced engineers. We host a number of DIY self-guided challenges that you can use to widen your understanding of web engineering and internet security fundamentals. 
 
 <br />
 - - -

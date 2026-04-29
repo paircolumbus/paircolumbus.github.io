@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-## 2022
+## Schedule
 
 ### Meetup Times
 For updates and other information, sign up for [our email list](http://paircolumbus.org/). [NodeSchool](http://nodeschool.io) sessions with an emphasis on NodeJS & Javascript are noted below. Each meetup is held at 11am.
