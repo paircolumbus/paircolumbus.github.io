@@ -54,5 +54,4 @@ We provide a number of language agnostic drills for growing your understanding o
 <br />
 
 ### Sponsored By
-- [CoverMyMeds](https://www.covermymeds.com/)
-- [BreachSiren](https://breachsiren.com)
+- [Cards For All People](https://cardsforallpeople.com)
